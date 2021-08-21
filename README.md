@@ -1,11 +1,11 @@
 # MSX1-with-d-ram
 MSX1 compatible machine with old fashion D-Ram
 
-Tested until vesion 2.5 
+Tested until version 2.5 
 This is version 2.6 should work as I only removed the Opamp for audio out and chanced the Transistor for the (Cassete)relay that
 probably nobody uses. (because there is also a jack in and out for the cassete)
 
-What works and tested in vesion 2.5:
+What works and tested in version 2.5:
 - [x] Boot with MSX-Bios and C-Bios 
 - [x] Video Out
 - [x] audio out (sound was bad in version 2.5 so removed Opamp in 2.6)
