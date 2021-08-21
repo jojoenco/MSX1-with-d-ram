@@ -13,7 +13,7 @@ What works and tested in vesion 2.5:
 - [x] cassete in through 3.5"mm jack
 - [ ] cassete out not tested
 - [ ] Cassete DIN not tested
-- [ ] relay did not switch in version 2.5 (chanced transistor but not tested yet)
+- [ ] relay (for Cassete REM) did not switch in version 2.5 (chanced transistor but not tested yet)
 - [x] reset
 - [X] Keyboard 
 - [X] Cartridge Slot 1 and Slot2
