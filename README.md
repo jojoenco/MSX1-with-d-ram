@@ -17,3 +17,5 @@ What works and tested in vesion 2.5:
 - [x] reset
 - [X] Keyboard 
 - [X] Cartridge Slot 1 and Slot2
+- [ ] Printer port not tested
+
