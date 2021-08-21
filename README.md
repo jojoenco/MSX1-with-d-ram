@@ -1,4 +1,3 @@
-![IMG_20210726_193931](https://user-images.githubusercontent.com/89305963/130328411-ba4a1808-e9c4-46c7-b1bb-16933eadda58.jpg)
 # MSX1-with-d-ram
 MSX1 compatible machine with old fashion D-Ram
 
@@ -25,3 +24,9 @@ I used the keyboard without de chips on it because they are on the main board an
 And then connected the wires directly to U1 pin 1-9 and J1 the bottom row.
 
 My own keyboard PCB is ready but I am waiting for the switches.
+
+
+
+
+
+![IMG_20210726_193931](https://user-images.githubusercontent.com/89305963/130328411-ba4a1808-e9c4-46c7-b1bb-16933eadda58.jpg)
