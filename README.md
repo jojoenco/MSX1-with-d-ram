@@ -26,7 +26,7 @@ And then connected the wires directly to U1 pin 1-9 and J1 the bottom row.
 My own keyboard PCB is ready but I am waiting for the switches.
 
 
-
+Below a foto of version 2.0 
 
 
 ![IMG_20210726_193931](https://user-images.githubusercontent.com/89305963/130328411-ba4a1808-e9c4-46c7-b1bb-16933eadda58.jpg)
