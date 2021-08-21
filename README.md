@@ -1,3 +1,4 @@
+![IMG_20210726_193931](https://user-images.githubusercontent.com/89305963/130328411-ba4a1808-e9c4-46c7-b1bb-16933eadda58.jpg)
 # MSX1-with-d-ram
 MSX1 compatible machine with old fashion D-Ram
 
