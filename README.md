@@ -1,6 +1,15 @@
 # MSX1-with-d-ram
 MSX1 compatible machine with old fashion D-Ram
 
+Specs:
+Z80
+TMS9918 (composiet out)
+8255
+AY-3-8910
+HM4816 X8 V-Ram
+HM4864 X8 Ram
+
+
 Tested until version 2.5 
 This is version 2.6 should work as I only removed the Opamp for audio out and chanced the Transistor for the (Cassete)relay that
 probably nobody uses. (because there is also a jack in and out for the cassete)
