@@ -1,7 +1,7 @@
 # MSX1-with-d-ram
 MSX1 compatible machine with old fashion D-Ram
 
-Specs:
+Specs:  
 Z80  
 TMS9918 (composiet out)  
 8255  
