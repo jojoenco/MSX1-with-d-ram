@@ -8,6 +8,8 @@ TMS9918 (composiet out)
 AY-3-8910  
 HM4816 X8 V-Ram  
 HM4864 X8 Ram  
+74xx  logic IC's  
+
 
 
 Tested until version 2.5 
