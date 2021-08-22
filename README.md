@@ -2,8 +2,8 @@
 MSX1 compatible machine with old fashion D-Ram
 
 Specs:
-Z80
-TMS9918 (composiet out)
+-Z80
+-TMS9918 (composiet out)
 8255
 AY-3-8910
 HM4816 X8 V-Ram
