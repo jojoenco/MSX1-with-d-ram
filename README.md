@@ -34,7 +34,7 @@ Because there is only a matrix connection for the keyboard I used the keyboard f
 I used the keyboard without de chips on it because they are on the main board and I jumpered on U2 the pins 1-2 and 3-4 and 5-6 and 8-9.
 And then connected the wires directly to U1 pin 1-9 and J1 the bottom row.
 
-My own keyboard PCB is ready but I am waiting for the switches.
+My own keyboard PCB is ready but I am waiting for the switches to test it.
 
 
 Below a foto of version 2.0 
