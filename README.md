@@ -36,6 +36,7 @@ And then connected the wires directly to U1 pin 1-9 and J1 the bottom row.
 
 My own keyboard PCB is ready but I am waiting for the switches to test it.
 
+THE KEYBOARD  
 The switches came in and it works fine:  
 https://github.com/jojoenco/Keyboard-for-MSX1-with-d-ram
 
