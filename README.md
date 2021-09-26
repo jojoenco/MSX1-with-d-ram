@@ -42,5 +42,10 @@ https://github.com/jojoenco/Keyboard-for-MSX1-with-d-ram
 
 Below a foto of version 2.0 
 
+And more Below Version 2.6 with no components yet
+
 
 ![IMG_20210726_193931](https://user-images.githubusercontent.com/89305963/130328411-ba4a1808-e9c4-46c7-b1bb-16933eadda58.jpg)
+
+
+![IMG_20210926_171302](https://user-images.githubusercontent.com/89305963/134813839-6fedaba8-dd14-4291-885e-87ad44aa452e.jpg)
